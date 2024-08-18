@@ -1,7 +1,7 @@
 # Modelling_returns_omni-channel_retail_Reinforcement_Learning
 
 This repository provides a Python script that includes the Hierarchical Markov Decision Process (HMDP) and the Proximal Policy Optimization (PPO) algorithm. 
-The goal of this model is to identify a cost-minimal ordering and allocation strategy for a dealer operating both online and offline channels. 
+The goal of this model is to identify a profit maximizing ordering and allocation strategy for a dealer operating both online and offline channels. 
 The dealer also experiences returns, which are assumed to be resellable.
 
 The implementation is based on the outlined model from the paper:
